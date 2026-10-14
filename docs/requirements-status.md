@@ -1,4 +1,0 @@
-# Requirements Status
-
-| Requirement | Status |
-| --- | --- |
